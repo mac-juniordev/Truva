@@ -1,0 +1,99 @@
+# ============================================
+# DEPENDENCIES
+# ============================================
+node_modules/
+# ============================================
+# ENVIRONMENT FILES
+# ============================================
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+
+# ============================================
+# BUILD OUTPUTS
+# ============================================
+dist/
+build/
+*.tsbuildinfo
+coverage/
+
+# Client specific builds
+client/dist/
+client/build/
+
+# Server specific builds
+server/dist/
+server/build/
+
+# ============================================
+# IDE & EDITOR
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# LOGS
+# ============================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================
+# OS FILES
+# ============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============================================
+# DATABASE
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+*.pgsql
+*.pgdata
+
+# ============================================
+# TEMPORARY FILES
+# ============================================
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.cache
+
+# ============================================
+# UPLOADS (if using local storage)
+# ============================================
+uploads/
+temp/
+storage/
+
+# ============================================
+# MISC
+# ============================================
+*.pem
+*.key
+*.crt
+.terraform/
+*.tfstate
+*.tfstate.*
