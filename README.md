@@ -769,7 +769,7 @@ All rights reserved.
 # 🙏 Acknowledgments
 
 
-Built with ❤️ by the TRUVA Team
+Built By MacDotCom
 
 
 Special thanks to everyone contributing to the future of digital trust.
